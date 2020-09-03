@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9986" started-at="2020-09-03T16:34:57 IST" finished-at="2020-09-03T16:35:07 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9986" started-at="2020-09-03T16:34:57 IST" finished-at="2020-09-03T16:35:07 IST">
+      <class name="Teknotrait_employee.Teknotrait_employee.Category_module">
+        <test-method status="PASS" signature="addCategory()[pri:1, instance:Teknotrait_employee.Teknotrait_employee.Category_module@c46bcd4]" name="addCategory" duration-ms="4974" started-at="2020-09-03T16:34:57 IST" finished-at="2020-09-03T16:35:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCategory -->
+        <test-method status="PASS" signature="getCategoryById()[pri:2, instance:Teknotrait_employee.Teknotrait_employee.Category_module@c46bcd4]" name="getCategoryById" duration-ms="1815" started-at="2020-09-03T16:35:02 IST" finished-at="2020-09-03T16:35:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCategoryById -->
+        <test-method status="PASS" signature="editCategoryById()[pri:3, instance:Teknotrait_employee.Teknotrait_employee.Category_module@c46bcd4]" name="editCategoryById" duration-ms="1578" started-at="2020-09-03T16:35:04 IST" finished-at="2020-09-03T16:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editCategoryById -->
+        <test-method status="PASS" signature="deleteCategory()[pri:4, instance:Teknotrait_employee.Teknotrait_employee.Category_module@c46bcd4]" name="deleteCategory" duration-ms="1549" started-at="2020-09-03T16:35:05 IST" finished-at="2020-09-03T16:35:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCategory -->
+      </class> <!-- Teknotrait_employee.Teknotrait_employee.Category_module -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
